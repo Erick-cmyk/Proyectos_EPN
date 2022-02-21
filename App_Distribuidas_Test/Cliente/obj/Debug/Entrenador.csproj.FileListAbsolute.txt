@@ -1,0 +1,10 @@
+C:\Users\erick\source\repos\prueba2\Test\Cliente\bin\Debug\Cliente.exe.config
+C:\Users\erick\source\repos\prueba2\Test\Cliente\bin\Debug\Cliente.exe
+C:\Users\erick\source\repos\prueba2\Test\Cliente\bin\Debug\Cliente.pdb
+C:\Users\erick\source\repos\prueba2\Test\Cliente\obj\Debug\Entrenador.csproj.AssemblyReference.cache
+C:\Users\erick\source\repos\prueba2\Test\Cliente\obj\Debug\Cliente.Pokedex.resources
+C:\Users\erick\source\repos\prueba2\Test\Cliente\obj\Debug\Cliente.Properties.Resources.resources
+C:\Users\erick\source\repos\prueba2\Test\Cliente\obj\Debug\Entrenador.csproj.GenerateResource.cache
+C:\Users\erick\source\repos\prueba2\Test\Cliente\obj\Debug\Entrenador.csproj.CoreCompileInputs.cache
+C:\Users\erick\source\repos\prueba2\Test\Cliente\obj\Debug\Cliente.exe
+C:\Users\erick\source\repos\prueba2\Test\Cliente\obj\Debug\Cliente.pdb

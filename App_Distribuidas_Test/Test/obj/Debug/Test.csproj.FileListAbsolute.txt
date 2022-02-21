@@ -1,0 +1,28 @@
+C:\Users\Jaime Ramìrez\source\repos\Test\Test\bin\Test.dll.config
+C:\Users\Jaime Ramìrez\source\repos\Test\Test\bin\Test.dll
+C:\Users\Jaime Ramìrez\source\repos\Test\Test\bin\Test.pdb
+C:\Users\Jaime Ramìrez\source\repos\Test\Test\obj\Debug\Test.csprojAssemblyReference.cache
+C:\Users\Jaime Ramìrez\source\repos\Test\Test\obj\Debug\Test.csproj.CoreCompileInputs.cache
+C:\Users\Jaime Ramìrez\source\repos\Test\Test\obj\Debug\Test.dll
+C:\Users\Jaime Ramìrez\source\repos\Test\Test\obj\Debug\Test.pdb
+D:\HP-Pavilion\Documents\2020-A\Aplicaciones Distribuidas\prueba2\Test\Test\bin\Test.dll.config
+D:\HP-Pavilion\Documents\2020-A\Aplicaciones Distribuidas\prueba2\Test\Test\bin\Test.dll
+D:\HP-Pavilion\Documents\2020-A\Aplicaciones Distribuidas\prueba2\Test\Test\bin\Test.pdb
+D:\HP-Pavilion\Documents\2020-A\Aplicaciones Distribuidas\prueba2\Test\Test\obj\Debug\Test.csprojAssemblyReference.cache
+D:\HP-Pavilion\Documents\2020-A\Aplicaciones Distribuidas\prueba2\Test\Test\obj\Debug\Test.csproj.CoreCompileInputs.cache
+D:\HP-Pavilion\Documents\2020-A\Aplicaciones Distribuidas\prueba2\Test\Test\obj\Debug\Test.dll
+D:\HP-Pavilion\Documents\2020-A\Aplicaciones Distribuidas\prueba2\Test\Test\obj\Debug\Test.pdb
+C:\Users\erick\OneDrive\Escritorio\prueba2\Test\Test\bin\Test.dll.config
+C:\Users\erick\OneDrive\Escritorio\prueba2\Test\Test\bin\Test.dll
+C:\Users\erick\OneDrive\Escritorio\prueba2\Test\Test\bin\Test.pdb
+C:\Users\erick\OneDrive\Escritorio\prueba2\Test\Test\obj\Debug\Test.csproj.AssemblyReference.cache
+C:\Users\erick\OneDrive\Escritorio\prueba2\Test\Test\obj\Debug\Test.csproj.CoreCompileInputs.cache
+C:\Users\erick\OneDrive\Escritorio\prueba2\Test\Test\obj\Debug\Test.dll
+C:\Users\erick\OneDrive\Escritorio\prueba2\Test\Test\obj\Debug\Test.pdb
+C:\Users\erick\source\repos\prueba2\Test\Test\bin\Test.dll.config
+C:\Users\erick\source\repos\prueba2\Test\Test\bin\Test.dll
+C:\Users\erick\source\repos\prueba2\Test\Test\bin\Test.pdb
+C:\Users\erick\source\repos\prueba2\Test\Test\obj\Debug\Test.csproj.AssemblyReference.cache
+C:\Users\erick\source\repos\prueba2\Test\Test\obj\Debug\Test.csproj.CoreCompileInputs.cache
+C:\Users\erick\source\repos\prueba2\Test\Test\obj\Debug\Test.dll
+C:\Users\erick\source\repos\prueba2\Test\Test\obj\Debug\Test.pdb

@@ -1,0 +1,7 @@
+C:\Users\erick\source\repos\prueba2\Test\Test\bin\Test.dll.config
+C:\Users\erick\source\repos\prueba2\Test\Test\bin\Test.dll
+C:\Users\erick\source\repos\prueba2\Test\Test\bin\Test.pdb
+C:\Users\erick\source\repos\prueba2\Test\Test\obj\Debug\PokeDB.csproj.AssemblyReference.cache
+C:\Users\erick\source\repos\prueba2\Test\Test\obj\Debug\PokeDB.csproj.CoreCompileInputs.cache
+C:\Users\erick\source\repos\prueba2\Test\Test\obj\Debug\Test.dll
+C:\Users\erick\source\repos\prueba2\Test\Test\obj\Debug\Test.pdb

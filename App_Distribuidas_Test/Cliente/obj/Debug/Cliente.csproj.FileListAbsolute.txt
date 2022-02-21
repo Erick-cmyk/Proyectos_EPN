@@ -1,0 +1,30 @@
+D:\HP-Pavilion\Documents\2020-A\Aplicaciones Distribuidas\prueba2\Test\Cliente\bin\Debug\Cliente.exe.config
+D:\HP-Pavilion\Documents\2020-A\Aplicaciones Distribuidas\prueba2\Test\Cliente\bin\Debug\Cliente.exe
+D:\HP-Pavilion\Documents\2020-A\Aplicaciones Distribuidas\prueba2\Test\Cliente\bin\Debug\Cliente.pdb
+D:\HP-Pavilion\Documents\2020-A\Aplicaciones Distribuidas\prueba2\Test\Cliente\obj\Debug\Cliente.csprojAssemblyReference.cache
+D:\HP-Pavilion\Documents\2020-A\Aplicaciones Distribuidas\prueba2\Test\Cliente\obj\Debug\Cliente.Form1.resources
+D:\HP-Pavilion\Documents\2020-A\Aplicaciones Distribuidas\prueba2\Test\Cliente\obj\Debug\Cliente.Properties.Resources.resources
+D:\HP-Pavilion\Documents\2020-A\Aplicaciones Distribuidas\prueba2\Test\Cliente\obj\Debug\Cliente.csproj.GenerateResource.cache
+D:\HP-Pavilion\Documents\2020-A\Aplicaciones Distribuidas\prueba2\Test\Cliente\obj\Debug\Cliente.csproj.CoreCompileInputs.cache
+D:\HP-Pavilion\Documents\2020-A\Aplicaciones Distribuidas\prueba2\Test\Cliente\obj\Debug\Cliente.exe
+D:\HP-Pavilion\Documents\2020-A\Aplicaciones Distribuidas\prueba2\Test\Cliente\obj\Debug\Cliente.pdb
+C:\Users\erick\OneDrive\Escritorio\prueba2\Test\Cliente\bin\Debug\Cliente.exe.config
+C:\Users\erick\OneDrive\Escritorio\prueba2\Test\Cliente\bin\Debug\Cliente.exe
+C:\Users\erick\OneDrive\Escritorio\prueba2\Test\Cliente\bin\Debug\Cliente.pdb
+C:\Users\erick\OneDrive\Escritorio\prueba2\Test\Cliente\obj\Debug\Cliente.csproj.AssemblyReference.cache
+C:\Users\erick\OneDrive\Escritorio\prueba2\Test\Cliente\obj\Debug\Cliente.Form1.resources
+C:\Users\erick\OneDrive\Escritorio\prueba2\Test\Cliente\obj\Debug\Cliente.Properties.Resources.resources
+C:\Users\erick\OneDrive\Escritorio\prueba2\Test\Cliente\obj\Debug\Cliente.csproj.GenerateResource.cache
+C:\Users\erick\OneDrive\Escritorio\prueba2\Test\Cliente\obj\Debug\Cliente.csproj.CoreCompileInputs.cache
+C:\Users\erick\OneDrive\Escritorio\prueba2\Test\Cliente\obj\Debug\Cliente.exe
+C:\Users\erick\OneDrive\Escritorio\prueba2\Test\Cliente\obj\Debug\Cliente.pdb
+C:\Users\erick\source\repos\prueba2\Test\Cliente\bin\Debug\Cliente.exe.config
+C:\Users\erick\source\repos\prueba2\Test\Cliente\bin\Debug\Cliente.exe
+C:\Users\erick\source\repos\prueba2\Test\Cliente\bin\Debug\Cliente.pdb
+C:\Users\erick\source\repos\prueba2\Test\Cliente\obj\Debug\Cliente.csproj.AssemblyReference.cache
+C:\Users\erick\source\repos\prueba2\Test\Cliente\obj\Debug\Cliente.Pokedex.resources
+C:\Users\erick\source\repos\prueba2\Test\Cliente\obj\Debug\Cliente.Properties.Resources.resources
+C:\Users\erick\source\repos\prueba2\Test\Cliente\obj\Debug\Cliente.csproj.GenerateResource.cache
+C:\Users\erick\source\repos\prueba2\Test\Cliente\obj\Debug\Cliente.csproj.CoreCompileInputs.cache
+C:\Users\erick\source\repos\prueba2\Test\Cliente\obj\Debug\Cliente.exe
+C:\Users\erick\source\repos\prueba2\Test\Cliente\obj\Debug\Cliente.pdb
